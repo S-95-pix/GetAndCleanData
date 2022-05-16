@@ -35,7 +35,7 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 # Week 4 assignment writeup
-README
-Codebook
-run_analysis.R
-tidydata.txt
+# README
+# Codebook
+# run_analysis.R
+# tidydata.txt
